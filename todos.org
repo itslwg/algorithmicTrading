@@ -417,6 +417,7 @@
    local_var_name
 ** DONE STOP BEING SUCH A NOOB                          :noobstop:emacs4ever:
 * ISSUEs
+** ISSUE
 * Resources
 ** DONE Seven resons ML funds Quantopian 
  SCHEDULED: <2019-06-17 Mon>
